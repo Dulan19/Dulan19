@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning **Springboot, Java, Python, Machine Learning**
+- 🌱 I’m currently learning **Springboot, Java, Python, React Machine Learning**
 
 - 🧑‍🎓 I’m an Undergraduate at **IIT**  
 
